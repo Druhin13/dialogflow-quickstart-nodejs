@@ -141,7 +141,7 @@ app.intent('Suggestion Chips', (conv) => {
     name: 'Suggestion Link',
     url: 'https://assistant.google.com/',
   }));
-  conv.ask('Which type of response would you like to see next?'); ;
+  conv.ask('Which type of response would you like to see next?');
 });
 // [END df_js_suggestion_chips]
 
